@@ -8,6 +8,6 @@ Given that this is a beta version, the presence of bugs and glitches is conceiva
 
 The code is provided "as is," without any warranty, whether express or implied. The authors disclaim all liability for any losses or damages (including direct, indirect, special, or consequential losses or damages, as well as any other losses or damages) arising from your use of the code.
 
-In any report, paper, or publication referencing the code, you are required to acknowledge its ownership by including the following citation: V. Zelenyuk, and S. Zhao (2024), Statistical Inference for World Green Efficiency and Productivity Dynamics: Theory and Application.
+In any report, paper, or publication referencing the code, you are required to acknowledge its ownership by including the following citation: V. Zelenyuk, and S. Zhao (2026), Statistical Inference for World Green Efficiency and Productivity Dynamics: Theory and Application.
 
 All rights reserved. It is free for academic use only with adequate citation and acknowledgments. For any other use, contact Shirong Zhao: shironz@163.com.
