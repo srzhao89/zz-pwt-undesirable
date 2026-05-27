@@ -1,4 +1,4 @@
-# zz-pwt-undesirable
+# Statistical Inference for World Green Efficiency and Productivity Dynamics: Theory and Application
 
 The authors (Valentin Zelenyuk and Shirong Zhao) retain full rights to this code. Possession and utilization of the code are allowed only upon agreement with the specified terms and conditions.
 
