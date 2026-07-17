@@ -91,7 +91,7 @@ for (i in 1:length(year)) {
   # 
   res[i,1:3]=tt$estimate[4:6]
   res[i,4:6]=tt$estimate.OECD[4:6]
-  res[i,7:9]=tt$estimate.NOECD[6]
+  res[i,7:9]=tt$estimate.NOECD[4:6]
   res[i,10]=tt$estimate.OECD[6]-tt$estimate.NOECD[6]
   res.that[i]=tt$pval
   #res[i,10:11]=c(tt$that,tt$pval)
