@@ -1,4 +1,4 @@
-# Aggregate Luenberger Productivity Indicators and Its Decompositions: Theory and Application
+# Statistical Inference for Environmental Productivity Indices
 
 The authors (Valentin Zelenyuk and Shirong Zhao) retain full rights to this code. Possession and utilization of the code are allowed only upon agreement with the specified terms and conditions.
 
@@ -10,6 +10,6 @@ The code is provided "as is," without any warranty, whether express or implied. 
 
 In any report, paper, or publication referencing the code, you are required to acknowledge its ownership by including the following citation: 
 
-V. Zelenyuk, and S. Zhao (2026), Aggregate Luenberger Productivity Indicators and Its Decompositions: Theory and Application.
+V. Zelenyuk, and S. Zhao (2026), Statistical Inference for Environmental Productivity Indices.
 
 All rights reserved. It is free for academic use only with adequate citation and acknowledgments. For any other use, contact Shirong Zhao: shironz@163.com.
